@@ -17,7 +17,6 @@ nav:
   home: /
   about: /about/
   articles: /archives/
-  search: /Search/
 #  projects: projects_url
 
 
@@ -29,7 +28,6 @@ social_links:
 # github: /
   twitter: http://twitter.com/anasaturno
   instagram: https://www.instagram.com/anasaturno/
-#  instagram: http://instagram.com/anasaturno
 # facebook: /
 # linkedin: /
   mail: mailto:saturno7@gmail.com
@@ -133,3 +131,8 @@ baidu_analytics:
 # logo and/or favicons of you website.
 gravatar:
   email: name@email.com
+
+# Search plugin
+search:
+  path: search.xml
+  field: post
