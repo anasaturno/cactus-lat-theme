@@ -6,6 +6,7 @@
 # This can be an external link (e.g., to you GitHub profile) or to another
 # page within your website.
 projects_url: http://github.com/probberechts
+feed_url: http://loslatidos.netlify.com/atom.xml
 
 # Set the page direction to RTL or LTR. default is LTR. (if you set it 'rtl', the 'vazir' font will be loaded.)
 direction: ltr
@@ -18,6 +19,7 @@ nav:
   about: /about/
   articles: /archives/
   search: /search/
+  feed: feed_url
 #  projects: projects_url
 
 
@@ -29,6 +31,7 @@ social_links:
 # github: /
   twitter: http://twitter.com/anasaturno
   instagram: https://www.instagram.com/anasaturno/
+  spotify: http://spotify.com/anasaturno
 # facebook: /
 # linkedin: /
   mail: mailto:saturno7@gmail.com
