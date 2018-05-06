@@ -18,7 +18,7 @@ nav:
   about: /about/
   articles: /archives/
   search: /search/
-  Feed: http://loslatidos.netlify.com/atom.xml
+  Feed: http://loslatidos.com/atom.xml
 #  projects: projects_url
 
 
